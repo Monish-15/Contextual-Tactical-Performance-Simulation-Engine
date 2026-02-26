@@ -31,3 +31,7 @@ The dashboard will allow users to:
 - View **Projected Heatmap Shift**
 - View **Expected Metric Change** (e.g., +14% Shot Volume)
 - Get a **Compatibility Score**.
+## Screen Shots
+<img width="828" height="1059" alt="image" src="https://github.com/user-attachments/assets/e86d7932-ee0b-44fc-84c8-65c3c8b6e459" />
+<img width="1224" height="1041" alt="image" src="https://github.com/user-attachments/assets/86c52327-cd16-48ea-82af-f3b4f4689413" />
+
