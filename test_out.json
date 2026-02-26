@@ -1,0 +1,223 @@
+{
+  "compatibility": 13,
+  "role": {
+    "original": "Base Identity",
+    "projected": "Mathematical Output"
+  },
+  "entropy": {
+    "original": 0.37,
+    "projected": 0.66
+  },
+  "valuation": "- \u20ac21.7M (Friction)",
+  "explanation": "Cosine similarity between player vector P and system vector T is 0.674. Spatial friction (0.87) actively redistributes base touch profiles into tactical constraints.",
+  "radarData": [
+    {
+      "metric": "Width",
+      "target": 55,
+      "original": 37
+    },
+    {
+      "metric": "Cent. Density",
+      "target": 44,
+      "original": 31
+    },
+    {
+      "metric": "Press Intense",
+      "target": 7,
+      "original": 8
+    },
+    {
+      "metric": "Verticality",
+      "target": 87,
+      "original": 6
+    },
+    {
+      "metric": "Line Height",
+      "target": 52,
+      "original": 77
+    },
+    {
+      "metric": "Tempo",
+      "target": 65,
+      "original": 75
+    }
+  ],
+  "stats": [
+    {
+      "label": "Central Touch %",
+      "value": "+11%",
+      "trend": 11,
+      "icon": "Layout"
+    },
+    {
+      "label": "Shot Volume",
+      "value": "+34%",
+      "trend": 34,
+      "icon": "Target"
+    },
+    {
+      "label": "Dribble Freq",
+      "value": "+1%",
+      "trend": 1,
+      "icon": "Zap"
+    },
+    {
+      "label": "xG per 90",
+      "value": "0.79 \u00b1 0.17",
+      "trend": 7,
+      "icon": "TrendingUp"
+    }
+  ],
+  "clusters": [
+    {
+      "x": "65%",
+      "y": "31%",
+      "intensity": "high"
+    },
+    {
+      "x": "88%",
+      "y": "45%",
+      "intensity": "high"
+    },
+    {
+      "x": "10%",
+      "y": "46%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "90%",
+      "y": "55%",
+      "intensity": "high"
+    },
+    {
+      "x": "51%",
+      "y": "47%",
+      "intensity": "high"
+    },
+    {
+      "x": "10%",
+      "y": "45%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "83%",
+      "y": "43%",
+      "intensity": "mid"
+    },
+    {
+      "x": "13%",
+      "y": "50%",
+      "intensity": "high"
+    },
+    {
+      "x": "90%",
+      "y": "44%",
+      "intensity": "high"
+    },
+    {
+      "x": "46%",
+      "y": "49%",
+      "intensity": "high"
+    },
+    {
+      "x": "90%",
+      "y": "49%",
+      "intensity": "mid"
+    },
+    {
+      "x": "82%",
+      "y": "46%",
+      "intensity": "high"
+    },
+    {
+      "x": "90%",
+      "y": "48%",
+      "intensity": "mid"
+    },
+    {
+      "x": "90%",
+      "y": "49%",
+      "intensity": "mid"
+    },
+    {
+      "x": "68%",
+      "y": "42%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "75%",
+      "y": "43%",
+      "intensity": "mid"
+    },
+    {
+      "x": "82%",
+      "y": "48%",
+      "intensity": "mid"
+    },
+    {
+      "x": "10%",
+      "y": "40%",
+      "intensity": "mid"
+    },
+    {
+      "x": "90%",
+      "y": "46%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "71%",
+      "y": "47%",
+      "intensity": "high"
+    },
+    {
+      "x": "85%",
+      "y": "51%",
+      "intensity": "mid"
+    },
+    {
+      "x": "90%",
+      "y": "47%",
+      "intensity": "high"
+    },
+    {
+      "x": "88%",
+      "y": "43%",
+      "intensity": "high"
+    },
+    {
+      "x": "90%",
+      "y": "42%",
+      "intensity": "mid"
+    },
+    {
+      "x": "90%",
+      "y": "53%",
+      "intensity": "mid"
+    },
+    {
+      "x": "90%",
+      "y": "48%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "80%",
+      "y": "49%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "79%",
+      "y": "50%",
+      "intensity": "mid"
+    },
+    {
+      "x": "31%",
+      "y": "52%",
+      "intensity": "extreme"
+    },
+    {
+      "x": "90%",
+      "y": "52%",
+      "intensity": "extreme"
+    }
+  ]
+}
